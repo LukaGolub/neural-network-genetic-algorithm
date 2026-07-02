@@ -90,6 +90,3 @@ x1,x2,x3,y
 - **Mutation** perturbs a random subset of genes (chosen independently per gene with probability `p`) by adding Gaussian noise with standard deviation `K`.
 - **Elitism** guarantees the algorithm's best training error never gets worse from one generation to the next.
 
-## License
-
-Feel free to use, modify, and distribute this project. Consider adding an explicit license file (e.g. MIT) if you plan to share it publicly.
